@@ -1,0 +1,181 @@
+property_id,landlord_id,branch_id,address,town,postcode_district,property_type,bedrooms,epc_rating,listed_rent_pcm,listed_date
+1,21,3,92 Victoria Road,Redcar,TS10,Terraced house,2,C,535.0,2022-03-23
+2,59,2,61 Marton Road,Stockton-on-Tees,TS18,Flat,2,D,680.0,2022-11-13
+3,58,4,69 Marton Road,Hartlepool,TS26,Room in HMO,1,D,335.0,2023-09-12
+4,43,1,90 Station Road,Middlesbrough,TS3,Semi-detached,3,E,785.0,2025-03-27
+5,4,1,90 Clive Road,Middlesbrough,TS5,Terraced house,3,C,695.0,2023-07-26
+6,53,3,46 Union Street,Redcar,TS11,Semi-detached,3,C,690.0,2023-10-13
+7,26,1,30 Park Avenue,Middlesbrough,TS7,Terraced house,2,C,670.0,2024-11-13
+8,43,1,94 Church Lane,Middlesbrough,TS1,Room in HMO,1,C,385.0,2024-06-30
+9,9,4,130 Station Road,Hartlepool,TS26,Semi-detached,4,D,895.0,2023-09-08
+10,26,2,174 Marton Road,Stockton-on-Tees,TS19,Flat,2,C,580.0,2024-02-16
+11,43,2,168 Coatham Road,Stockton-on-Tees,TS20,Semi-detached,3,C,820.0,2025-08-24
+12,59,2,169 Parliament Road,Stockton-on-Tees,TS19,Terraced house,3,C,820.0,2022-12-14
+13,42,2,58 Victoria Road,Stockton-on-Tees,TS18,Terraced house,2,C,710.0,2023-09-28
+14,4,1,162 Union Street,Middlesbrough,TS3,Flat,1,C,540.0,2024-04-28
+15,40,3,109 Yarm Road,Redcar,TS10,Flat,2,C,510.0,2022-08-07
+16,57,3,117 Acklam Road,Redcar,TS11,Terraced house,3,C,680.0,2022-09-06
+17,54,2,110 Ayresome Street,Stockton-on-Tees,TS20,Detached,4,D,1390.0,2025-06-06
+18,18,4,71 Clive Road,Hartlepool,TS25,Terraced house,3,C,625.0,2025-07-29
+19,20,2,139 Parliament Road,Stockton-on-Tees,TS18,Flat,1,B,500.0,2023-10-17
+20,25,1,139 Grange Road,Middlesbrough,TS5,Flat,2,C,565.0,2024-10-26
+21,58,1,148 Park Avenue,Middlesbrough,TS5,Semi-detached,3,C,880.0,2022-06-01
+22,59,1,138 Ayresome Street,Middlesbrough,TS7,Flat,2,D,645.0,2024-05-08
+23,24,4,43 Grange Road,Hartlepool,TS24,Terraced house,2,C,565.0,2024-08-05
+24,38,4,165 Church Lane,Hartlepool,TS24,Terraced house,2,E,580.0,2022-06-21
+25,26,4,98 Norton Road,Hartlepool,TS25,Room in HMO,1,C,330.0,2023-11-23
+26,60,1,58 Parliament Road,Middlesbrough,TS1,Room in HMO,1,A,385.0,2023-12-18
+27,9,3,122 Borough Road,Redcar,TS10,Semi-detached,4,C,790.0,2022-09-16
+28,59,2,42 Station Road,Stockton-on-Tees,TS17,Flat,1,C,535.0,2022-08-23
+29,24,2,20 Union Street,Stockton-on-Tees,TS18,Semi-detached,4,D,1095.0,2023-06-10
+30,9,1,11 Queen Street,Middlesbrough,TS7,Terraced house,3,E,750.0,2025-03-05
+31,50,2,28 Church Lane,Stockton-on-Tees,TS19,Flat,2,C,610.0,2024-09-30
+32,41,2,70 Newport Road,Stockton-on-Tees,TS20,Semi-detached,3,D,865.0,2025-08-25
+33,18,2,72 Grange Road,Stockton-on-Tees,TS18,Semi-detached,3,D,840.0,2022-06-27
+34,27,3,47 Westbourne Grove,Redcar,TS10,Terraced house,2,D,560.0,2023-10-28
+35,53,1,3 Clive Road,Middlesbrough,TS3,Flat,1,C,510.0,2024-08-10
+36,40,1,126 Grange Road,Middlesbrough,TS1,Terraced house,3,C,775.0,2025-08-15
+37,31,1,142 Clive Road,Middlesbrough,TS4,Flat,1,D,480.0,2024-08-27
+38,20,2,60 Borough Road,Stockton-on-Tees,TS18,Terraced house,3,C,805.0,2023-05-30
+39,12,1,124 Norton Road,Middlesbrough,TS7,Terraced house,3,F,765.0,2025-05-29
+40,12,4,93 Marton Road,Hartlepool,TS25,Terraced house,2,C,520.0,2023-12-22
+41,30,1,164 Westbourne Grove,Middlesbrough,TS1,Terraced house,2,C,695.0,2022-09-16
+42,10,4,65 Westbourne Grove,Hartlepool,TS24,Terraced house,2,C,560.0,2022-04-16
+43,3,3,145 Station Road,Redcar,TS10,Flat,2,B,570.0,2022-11-02
+44,43,4,134 Park Avenue,Hartlepool,TS25,Room in HMO,1,D,355.0,2024-07-30
+45,30,4,157 Borough Road,Hartlepool,TS24,Flat,1,D,445.0,2022-05-04
+46,30,2,1 Church Lane,Stockton-on-Tees,TS20,Flat,1,B,495.0,2022-11-17
+47,20,3,19 Yarm Road,Redcar,TS11,Flat,2,B,525.0,2024-07-18
+48,26,3,58 Acklam Road,Redcar,TS11,Terraced house,2,D,635.0,2025-01-20
+49,41,3,74 Grange Road,Redcar,TS10,Room in HMO,1,C,340.0,2025-03-11
+50,30,2,21 Newport Road,Stockton-on-Tees,TS17,Flat,1,C,500.0,2024-06-15
+51,18,4,151 Albert Road,Hartlepool,TS26,Terraced house,3,D,590.0,2025-03-24
+52,29,3,72 Marton Road,Redcar,TS11,Terraced house,2,D,540.0,2024-06-24
+53,21,2,42 Coatham Road,Stockton-on-Tees,TS20,Terraced house,2,B,640.0,2022-08-03
+54,30,3,23 Coatham Road,Redcar,TS11,Flat,1,E,490.0,2024-07-20
+55,59,1,119 Church Lane,Middlesbrough,TS1,Detached,4,C,1210.0,2025-01-16
+56,42,1,69 Ayresome Street,Middlesbrough,TS3,Flat,2,D,615.0,2023-02-21
+57,59,4,62 Marton Road,Hartlepool,TS25,Flat,2,D,495.0,2025-05-31
+58,57,2,31 Acklam Road,Stockton-on-Tees,TS20,Terraced house,2,B,735.0,2024-08-03
+59,27,4,63 Grange Road,Hartlepool,TS26,Flat,1,D,440.0,2024-08-25
+60,9,1,71 Church Lane,Middlesbrough,TS4,Room in HMO,1,D,405.0,2022-05-23
+61,21,4,149 Westbourne Grove,Hartlepool,TS24,Terraced house,2,D,540.0,2025-04-17
+62,24,2,49 Yarm Road,Stockton-on-Tees,TS20,Terraced house,2,C,700.0,2024-02-18
+63,40,1,99 Acklam Road,Middlesbrough,TS5,Terraced house,3,B,770.0,2024-02-20
+64,5,4,26 Clive Road,Hartlepool,TS25,Room in HMO,1,F,335.0,2024-06-20
+65,4,1,87 Newport Road,Middlesbrough,TS5,Room in HMO,1,E,425.0,2023-06-27
+66,24,2,161 Westbourne Grove,Stockton-on-Tees,TS17,Semi-detached,3,E,945.0,2024-02-07
+67,18,2,112 Borough Road,Stockton-on-Tees,TS17,Flat,1,D,500.0,2022-07-05
+68,43,2,92 Queen Street,Stockton-on-Tees,TS20,Terraced house,3,E,695.0,2024-10-07
+69,10,1,157 Park Avenue,Middlesbrough,TS7,Terraced house,2,D,670.0,2022-06-11
+70,35,3,66 Albert Road,Redcar,TS11,Terraced house,2,D,545.0,2024-07-30
+71,22,4,77 Church Lane,Hartlepool,TS26,Terraced house,3,C,650.0,2025-04-18
+72,27,1,98 Union Street,Middlesbrough,TS4,Semi-detached,3,C,810.0,2023-05-01
+73,38,2,3 Union Street,Stockton-on-Tees,TS17,Detached,4,C,1400.0,2023-07-17
+74,43,4,156 Queen Street,Hartlepool,TS24,Terraced house,3,D,715.0,2024-08-03
+75,38,2,161 Borough Road,Stockton-on-Tees,TS17,Terraced house,2,D,695.0,2022-10-08
+76,5,1,84 Church Lane,Middlesbrough,TS3,Flat,2,D,630.0,2023-08-28
+77,27,1,43 Norton Road,Middlesbrough,TS5,Semi-detached,3,E,810.0,2023-07-13
+78,27,4,37 Yarm Road,Hartlepool,TS26,Flat,1,E,480.0,2022-06-04
+79,23,3,4 Norton Road,Redcar,TS10,Detached,4,F,1185.0,2024-03-19
+80,44,2,28 Yarm Road,Stockton-on-Tees,TS20,Terraced house,3,D,785.0,2024-01-31
+81,18,1,163 Grange Road,Middlesbrough,TS4,Semi-detached,3,D,910.0,2022-05-10
+82,60,2,25 Yarm Road,Stockton-on-Tees,TS18,Room in HMO,1,B,360.0,2022-08-26
+83,30,1,40 Church Lane,Middlesbrough,TS1,Flat,2,E,625.0,2025-04-17
+84,40,3,114 Grange Road,Redcar,TS10,Terraced house,2,E,555.0,2023-03-21
+85,59,4,16 Park Avenue,Hartlepool,TS25,Room in HMO,1,D,350.0,2024-01-05
+86,38,1,164 Newport Road,Middlesbrough,TS1,Room in HMO,1,E,380.0,2025-08-07
+87,14,1,151 Victoria Road,Middlesbrough,TS3,Flat,1,F,530.0,2024-10-08
+88,52,1,34 Ayresome Street,Middlesbrough,TS4,Room in HMO,1,E,340.0,2022-10-24
+89,22,3,151 Coatham Road,Redcar,TS10,Room in HMO,1,E,325.0,2023-05-03
+90,41,1,115 Queen Street,Middlesbrough,TS7,Room in HMO,1,D,385.0,2024-09-02
+91,41,2,78 Grange Road,Stockton-on-Tees,TS17,Flat,2,C,645.0,2024-12-03
+92,27,1,19 Parliament Road,Middlesbrough,TS4,Flat,2,C,625.0,2024-06-27
+93,30,2,98 Newport Road,Stockton-on-Tees,TS19,Room in HMO,1,C,415.0,2023-10-28
+94,50,2,142 Victoria Road,Stockton-on-Tees,TS20,Terraced house,2,B,690.0,2025-08-26
+95,25,2,81 Church Lane,Stockton-on-Tees,TS19,Flat,1,C,520.0,2024-02-28
+96,4,2,24 Church Lane,Stockton-on-Tees,TS17,Flat,2,C,690.0,2022-06-24
+97,59,3,85 Borough Road,Redcar,TS11,Flat,2,B,500.0,2025-02-24
+98,41,1,154 Station Road,Middlesbrough,TS4,Terraced house,3,D,790.0,2023-08-13
+99,49,1,143 Queen Street,Middlesbrough,TS1,Terraced house,2,C,630.0,2024-03-04
+100,59,3,158 Ayresome Street,Redcar,TS10,Terraced house,2,D,625.0,2025-06-27
+101,20,2,87 Queen Street,Stockton-on-Tees,TS17,Terraced house,3,D,690.0,2023-09-25
+102,41,1,24 Clive Road,Middlesbrough,TS3,Room in HMO,1,D,350.0,2022-03-04
+103,21,1,153 Parliament Road,Middlesbrough,TS1,Flat,2,C,575.0,2025-03-08
+104,26,1,125 Newport Road,Middlesbrough,TS5,Terraced house,3,B,665.0,2024-05-18
+105,7,2,125 Clive Road,Stockton-on-Tees,TS19,Flat,1,C,505.0,2025-04-29
+106,21,1,36 Norton Road,Middlesbrough,TS4,Flat,2,D,535.0,2023-03-09
+107,24,1,129 Ayresome Street,Middlesbrough,TS4,Room in HMO,1,D,355.0,2023-08-14
+108,57,1,148 Church Lane,Middlesbrough,TS7,Semi-detached,3,B,745.0,2023-10-04
+109,59,2,159 Grange Road,Stockton-on-Tees,TS19,Terraced house,3,C,755.0,2022-12-18
+110,29,1,80 Coatham Road,Middlesbrough,TS3,Semi-detached,3,C,850.0,2024-03-21
+111,29,1,90 Acklam Road,Middlesbrough,TS3,Room in HMO,1,C,350.0,2023-12-17
+112,42,1,46 Westbourne Grove,Middlesbrough,TS5,Flat,1,C,460.0,2022-06-04
+113,30,3,160 Coatham Road,Redcar,TS11,Terraced house,3,C,735.0,2025-07-25
+114,20,1,91 Clive Road,Middlesbrough,TS1,Room in HMO,1,C,365.0,2022-04-26
+115,4,1,158 Newport Road,Middlesbrough,TS7,Flat,2,B,645.0,2022-07-04
+116,2,1,167 Victoria Road,Middlesbrough,TS4,Terraced house,2,F,665.0,2025-03-16
+117,43,2,22 Clive Road,Stockton-on-Tees,TS18,Terraced house,2,F,655.0,2024-11-27
+118,33,1,96 Station Road,Middlesbrough,TS5,Terraced house,3,G,735.0,2024-01-16
+119,37,2,85 Borough Road,Stockton-on-Tees,TS20,Flat,1,D,560.0,2024-04-28
+120,53,1,21 Union Street,Middlesbrough,TS3,Terraced house,3,D,795.0,2023-12-26
+121,9,4,80 Ayresome Street,Hartlepool,TS25,Flat,1,D,465.0,2022-06-23
+122,58,2,24 Church Lane,Stockton-on-Tees,TS19,Flat,1,B,550.0,2025-04-04
+123,42,1,58 Acklam Road,Middlesbrough,TS3,Flat,1,F,485.0,2023-01-29
+124,47,1,10 Coatham Road,Middlesbrough,TS7,Semi-detached,3,B,880.0,2024-12-14
+125,42,1,113 Linthorpe Road,Middlesbrough,TS5,Flat,2,C,645.0,2022-12-06
+126,42,1,60 Ayresome Street,Middlesbrough,TS3,Terraced house,3,F,750.0,2024-07-08
+127,24,1,113 Grange Road,Middlesbrough,TS4,Semi-detached,3,C,895.0,2025-07-11
+128,13,3,36 Norton Road,Redcar,TS10,Terraced house,2,C,540.0,2025-05-23
+129,49,2,32 Station Road,Stockton-on-Tees,TS17,Semi-detached,3,D,800.0,2025-07-30
+130,26,3,116 Queen Street,Redcar,TS10,Flat,1,E,425.0,2023-03-31
+131,5,2,8 Coatham Road,Stockton-on-Tees,TS17,Flat,2,C,615.0,2023-04-05
+132,20,3,179 Acklam Road,Redcar,TS11,Terraced house,3,D,620.0,2024-08-25
+133,47,2,156 Clive Road,Stockton-on-Tees,TS20,Room in HMO,1,B,380.0,2025-01-28
+134,26,1,118 Parliament Road,Middlesbrough,TS1,Flat,1,C,450.0,2025-06-29
+135,30,3,75 Church Lane,Redcar,TS10,Terraced house,2,D,595.0,2022-10-22
+136,5,2,18 Clive Road,Stockton-on-Tees,TS17,Flat,1,C,545.0,2024-01-09
+137,18,1,92 Parliament Road,Middlesbrough,TS4,Flat,2,D,665.0,2022-02-03
+138,42,1,12 Queen Street,Middlesbrough,TS7,Terraced house,3,B,745.0,2022-10-01
+139,59,1,162 Marton Road,Middlesbrough,TS3,Terraced house,3,D,760.0,2024-09-07
+140,2,1,11 Coatham Road,Middlesbrough,TS4,Terraced house,3,C,700.0,2023-02-13
+141,42,2,74 Queen Street,Stockton-on-Tees,TS17,Detached,4,D,1200.0,2023-01-27
+142,54,4,99 Coatham Road,Hartlepool,TS24,Flat,1,B,435.0,2025-01-24
+143,43,2,21 Church Lane,Stockton-on-Tees,TS18,Terraced house,2,E,665.0,2025-02-18
+144,21,2,110 Marton Road,Stockton-on-Tees,TS20,Flat,1,B,545.0,2025-05-19
+145,60,1,164 Linthorpe Road,Middlesbrough,TS1,Room in HMO,1,E,370.0,2023-07-17
+146,9,3,37 Newport Road,Redcar,TS11,Flat,2,C,585.0,2022-03-05
+147,24,1,9 Newport Road,Middlesbrough,TS3,Room in HMO,1,D,375.0,2025-07-04
+148,30,3,94 Park Avenue,Redcar,TS11,Semi-detached,4,C,935.0,2024-12-20
+149,27,2,144 Borough Road,Stockton-on-Tees,TS19,Flat,1,B,550.0,2024-03-03
+150,40,3,52 Borough Road,Redcar,TS10,Terraced house,3,C,690.0,2024-10-02
+151,5,4,171 Queen Street,Hartlepool,TS26,Flat,2,E,535.0,2023-10-17
+152,41,1,45 Queen Street,Middlesbrough,TS7,Terraced house,2,E,680.0,2025-07-30
+153,27,1,142 Union Street,Middlesbrough,TS4,Detached,4,D,1140.0,2024-01-10
+154,4,2,123 Clive Road,Stockton-on-Tees,TS20,Detached,4,B,1375.0,2024-03-26
+155,36,3,120 Clive Road,Redcar,TS11,Semi-detached,3,B,845.0,2024-08-06
+156,42,1,111 Clive Road,Middlesbrough,TS1,Semi-detached,3,D,850.0,2022-09-22
+157,58,3,89 Clive Road,Redcar,TS11,Terraced house,2,C,540.0,2023-07-27
+158,9,3,158 Ayresome Street,Redcar,TS10,Flat,1,D,465.0,2023-09-13
+159,38,2,87 Union Street,Stockton-on-Tees,TS17,Room in HMO,1,E,375.0,2025-05-24
+160,30,3,54 Union Street,Redcar,TS11,Room in HMO,1,B,365.0,2025-08-26
+161,35,2,124 Yarm Road,Stockton-on-Tees,TS20,Room in HMO,1,E,405.0,2023-09-11
+162,27,1,88 Newport Road,Middlesbrough,TS3,Room in HMO,1,B,380.0,2023-02-22
+163,59,1,95 Clive Road,Middlesbrough,TS7,Terraced house,3,D,790.0,2022-09-25
+164,9,1,75 Park Avenue,Middlesbrough,TS7,Flat,1,B,495.0,2022-04-14
+165,58,2,49 Marton Road,Stockton-on-Tees,TS20,Detached,4,E,1355.0,2024-01-22
+166,5,4,130 Grange Road,Hartlepool,TS24,Flat,2,E,540.0,2024-03-16
+167,53,1,173 Westbourne Grove,Middlesbrough,TS4,Flat,2,B,600.0,2024-11-18
+168,41,2,94 Linthorpe Road,Stockton-on-Tees,TS20,Semi-detached,3,C,950.0,2024-04-05
+169,24,1,141 Norton Road,Middlesbrough,TS7,Terraced house,2,C,600.0,2024-11-07
+170,43,3,143 Queen Street,Redcar,TS10,Room in HMO,1,F,345.0,2024-11-23
+171,9,1,122 Clive Road,Middlesbrough,TS5,Terraced house,2,C,570.0,2023-11-14
+172,21,1,158 Station Road,Middlesbrough,TS7,Semi-detached,4,B,1050.0,2024-03-15
+173,21,1,95 Coatham Road,Middlesbrough,TS1,Semi-detached,3,D,870.0,2022-02-04
+174,40,4,153 Westbourne Grove,Hartlepool,TS25,Terraced house,2,D,595.0,2022-02-24
+175,41,4,123 Marton Road,Hartlepool,TS26,Semi-detached,3,D,765.0,2025-04-10
+176,39,2,147 Borough Road,Stockton-on-Tees,TS18,Terraced house,2,E,610.0,2024-04-23
+177,24,1,16 Acklam Road,Middlesbrough,TS7,Flat,1,C,520.0,2024-12-20
+178,21,1,118 Ayresome Street,Middlesbrough,TS4,Flat,1,D,505.0,2022-12-21
+179,43,2,157 Westbourne Grove,Stockton-on-Tees,TS18,Terraced house,3,E,800.0,2024-09-07
+180,59,4,54 Westbourne Grove,Hartlepool,TS25,Flat,1,C,495.0,2023-08-15

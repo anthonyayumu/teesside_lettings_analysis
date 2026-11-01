@@ -1,0 +1,421 @@
+tenant_id,full_name,age_band,employment_status,referral_source,registered_date
+1,Ama Robinson,25-34,Universal Credit,Referral,2023-08-13
+2,Priya Hall,35-44,Employed full-time,SpareRoom,2023-12-08
+3,Chloe Davies,18-24,Universal Credit,Rightmove,2024-06-24
+4,Ryan Jackson,25-34,Employed full-time,Zoopla,2025-02-25
+5,Megan Brown,18-24,Student,Rightmove,2022-04-14
+6,Holly Wilson,35-44,Employed full-time,Zoopla,2024-08-25
+7,Daniel Lewis,35-44,Employed full-time,OpenRent,2022-11-20
+8,Adam Clarke,55+,Universal Credit,Zoopla,2023-02-13
+9,Kofi Ali,25-34,Employed full-time,Referral,2025-03-21
+10,Ethan Evans,35-44,Universal Credit,Rightmove,2022-12-25
+11,Adam Scott,45-54,Universal Credit,Rightmove,2024-03-24
+12,Lewis Khan,55+,Retired,SpareRoom,2022-03-18
+13,James Davies,25-34,Employed full-time,SpareRoom,2023-08-06
+14,Ellie Clarke,25-34,Employed part-time,SpareRoom,2024-10-29
+15,Ellie Nowak,18-24,Employed full-time,Rightmove,2024-07-28
+16,Ryan Wood,18-24,Student,Referral,2025-03-08
+17,Tomasz Khan,35-44,Self-employed,Zoopla,2024-05-25
+18,Yusuf Ali,18-24,Self-employed,Rightmove,2022-10-15
+19,Ama Ali,55+,Employed full-time,Zoopla,2024-07-03
+20,Megan Ali,25-34,Student,Rightmove,2024-01-07
+21,Aisha Patel,35-44,Employed full-time,Rightmove,2024-10-26
+22,Zara Wood,18-24,Universal Credit,Rightmove,2025-06-12
+23,Ethan Wilson,55+,Employed full-time,Zoopla,2025-05-25
+24,Fatima Thompson,35-44,Universal Credit,Referral,2023-03-24
+25,Aisha Lewis,35-44,Universal Credit,Rightmove,2024-07-03
+26,Holly Wood,25-34,Universal Credit,Rightmove,2025-01-26
+27,Yusuf Taylor,25-34,Employed full-time,Rightmove,2024-12-01
+28,Nathan Mensah,35-44,Self-employed,Zoopla,2024-11-11
+29,Nathan Hughes,18-24,Employed full-time,Zoopla,2025-02-28
+30,Amelia Evans,25-34,Student,Referral,2024-03-21
+31,Ryan Ahmed,18-24,Employed full-time,Rightmove,2024-05-17
+32,Oliver Wood,18-24,Retired,SpareRoom,2022-05-22
+33,Ama Patel,25-34,Employed full-time,Rightmove,2024-05-10
+34,Fatima Scott,25-34,Universal Credit,Facebook Marketplace,2024-02-09
+35,Grace Lewis,55+,Universal Credit,Rightmove,2023-12-14
+36,Priya Khan,55+,Employed full-time,Rightmove,2023-04-02
+37,James Boateng,18-24,Employed full-time,Walk-in,2025-01-20
+38,Jessica Evans,25-34,Employed full-time,Zoopla,2022-11-14
+39,Megan Taylor,55+,Student,Rightmove,2024-05-08
+40,Olivia Wilson,18-24,Employed full-time,Rightmove,2025-05-09
+41,Amelia Wilson,35-44,Employed full-time,Rightmove,2023-03-21
+42,Amelia Brown,25-34,Employed full-time,Referral,2025-03-25
+43,Jack Hall,25-34,Self-employed,Rightmove,2023-09-11
+44,Chloe Lewis,25-34,Employed full-time,Rightmove,2025-02-14
+45,Sophie Clarke,35-44,Employed part-time,Rightmove,2023-12-07
+46,Callum Hughes,25-34,Self-employed,Zoopla,2023-09-07
+47,Callum Khan,35-44,Employed full-time,Facebook Marketplace,2023-09-08
+48,Chloe Hughes,25-34,Employed full-time,Zoopla,2024-05-03
+49,Rachel Hussain,18-24,Employed full-time,Rightmove,2022-06-11
+50,Nathan Turner,25-34,Employed part-time,Facebook Marketplace,2022-04-16
+51,Megan Wright,35-44,Employed part-time,Facebook Marketplace,2023-01-21
+52,Rachel Taylor,25-34,Universal Credit,Rightmove,2022-02-01
+53,Hannah Bell,18-24,Student,Referral,2024-09-07
+54,Aisha Wood,35-44,Employed full-time,Facebook Marketplace,2025-02-04
+55,Jack Boateng,25-34,Employed full-time,Walk-in,2023-09-24
+56,Ryan Robinson,25-34,Employed part-time,Rightmove,2024-08-19
+57,Jack Bell,18-24,Employed full-time,Rightmove,2023-03-30
+58,Chloe Smith,25-34,Universal Credit,OpenRent,2024-05-05
+59,Kofi Brown,18-24,Employed full-time,OpenRent,2023-05-19
+60,Lewis Evans,35-44,Self-employed,Rightmove,2024-09-27
+61,Lewis Owusu,18-24,Student,Rightmove,2025-01-24
+62,Lewis Khan,45-54,Employed part-time,Walk-in,2022-05-01
+63,Holly Patel,45-54,Employed full-time,Referral,2022-04-10
+64,James Thompson,18-24,Self-employed,Rightmove,2022-11-06
+65,James Taylor,25-34,Employed full-time,OpenRent,2025-06-16
+66,Ama Lewis,25-34,Employed full-time,OpenRent,2022-01-25
+67,Olivia Hussain,35-44,Employed part-time,Rightmove,2024-10-25
+68,Jessica Hughes,55+,Employed full-time,Facebook Marketplace,2024-12-09
+69,Chloe Wilson,18-24,Employed part-time,Referral,2023-07-02
+70,Leah Johnson,25-34,Employed full-time,OpenRent,2023-04-08
+71,Zara Lewis,45-54,Employed full-time,SpareRoom,2022-03-06
+72,Grace Wright,25-34,Employed part-time,Rightmove,2022-01-20
+73,Ahmed Johnson,25-34,Employed full-time,Referral,2025-03-04
+74,Daniel Scott,25-34,Employed full-time,Rightmove,2025-03-06
+75,Ama Nowak,18-24,Employed full-time,SpareRoom,2025-01-17
+76,Mohammed Khan,55+,Employed full-time,SpareRoom,2025-04-17
+77,Chloe Boateng,45-54,Student,SpareRoom,2023-09-05
+78,Ahmed Hall,25-34,Student,Zoopla,2025-01-12
+79,Emily Wright,35-44,Employed full-time,SpareRoom,2022-06-10
+80,Yusuf Jackson,55+,Employed full-time,Zoopla,2022-06-05
+81,Emily Green,35-44,Universal Credit,Zoopla,2023-10-31
+82,Olivia Clarke,25-34,Retired,Zoopla,2023-12-30
+83,Rachel Wright,25-34,Self-employed,Walk-in,2022-06-25
+84,Kofi Hughes,25-34,Employed full-time,Rightmove,2024-02-18
+85,Chloe Jackson,25-34,Employed full-time,Rightmove,2023-09-24
+86,Nathan Robinson,35-44,Employed full-time,Rightmove,2024-06-01
+87,Nathan Evans,25-34,Employed full-time,Rightmove,2023-12-26
+88,Rachel Johnson,25-34,Student,Facebook Marketplace,2022-01-26
+89,Kofi Thompson,25-34,Employed full-time,Facebook Marketplace,2023-05-13
+90,Holly Khan,35-44,Employed full-time,Rightmove,2023-07-04
+91,Lewis Brown,18-24,Employed full-time,Zoopla,2024-09-18
+92,Kwame Robinson,25-34,Employed full-time,OpenRent,2025-05-01
+93,Tomasz Owusu,18-24,Employed full-time,SpareRoom,2023-11-12
+94,Callum Hughes,45-54,Employed full-time,Zoopla,2025-05-02
+95,Liam Davies,25-34,Universal Credit,Rightmove,2023-10-06
+96,Sophie Wright,55+,Employed full-time,Walk-in,2024-10-02
+97,Aisha Ali,25-34,Student,Zoopla,2022-08-22
+98,Tomasz Hall,55+,Employed full-time,Referral,2022-02-25
+99,Ellie Wood,18-24,Student,Facebook Marketplace,2022-05-22
+100,Adam Lewis,25-34,Self-employed,Rightmove,2022-11-12
+101,Jessica Hughes,25-34,Employed full-time,OpenRent,2025-04-07
+102,Leah Evans,25-34,Universal Credit,Walk-in,2025-01-18
+103,Mohammed Hughes,55+,Self-employed,Referral,2025-05-01
+104,Grace Mensah,35-44,Self-employed,Zoopla,2025-06-08
+105,Mohammed Hall,55+,Self-employed,Zoopla,2023-11-11
+106,Jessica Mensah,18-24,Employed full-time,Zoopla,2024-11-28
+107,Rachel Hall,35-44,Employed full-time,Zoopla,2024-08-06
+108,Yusuf Brown,25-34,Employed full-time,Rightmove,2024-05-01
+109,Grace Mensah,45-54,Student,Zoopla,2023-12-04
+110,Ellie Hughes,18-24,Employed part-time,Zoopla,2024-06-16
+111,Nathan Ali,18-24,Employed full-time,Walk-in,2022-02-16
+112,Emily Clarke,18-24,Student,SpareRoom,2023-05-15
+113,Holly Khan,25-34,Employed full-time,Zoopla,2024-08-04
+114,Ethan Hughes,25-34,Employed full-time,Walk-in,2024-06-04
+115,Leah Smith,35-44,Universal Credit,Zoopla,2024-05-29
+116,Callum Smith,35-44,Employed full-time,Referral,2022-05-09
+117,Daniel Hughes,45-54,Employed full-time,Rightmove,2024-07-26
+118,Priya Nowak,35-44,Employed part-time,SpareRoom,2023-10-04
+119,Callum Green,25-34,Employed full-time,Zoopla,2024-07-26
+120,Sophie Ahmed,35-44,Student,Facebook Marketplace,2025-04-23
+121,Grace Lewis,18-24,Employed full-time,Rightmove,2023-01-10
+122,Fatima Wood,18-24,Employed full-time,OpenRent,2025-03-23
+123,Callum Thompson,18-24,Self-employed,Walk-in,2022-12-21
+124,Rachel Khan,25-34,Employed full-time,Rightmove,2024-07-12
+125,Amelia Turner,25-34,Employed full-time,Rightmove,2024-02-26
+126,Rachel Hussain,35-44,Employed full-time,Zoopla,2024-06-28
+127,Lewis Khan,18-24,Employed full-time,Referral,2023-08-22
+128,Mohammed Nowak,25-34,Employed full-time,Referral,2025-03-04
+129,Lewis Evans,25-34,Employed part-time,Rightmove,2025-01-17
+130,Fatima Evans,45-54,Employed full-time,Walk-in,2025-01-23
+131,Hannah Thompson,18-24,Student,Referral,2023-09-02
+132,Mohammed Owusu,25-34,Universal Credit,Rightmove,2022-08-29
+133,Aisha Taylor,45-54,Employed part-time,Zoopla,2025-06-03
+134,Jessica Khan,35-44,Student,Referral,2022-05-02
+135,Oliver Evans,25-34,Employed part-time,Rightmove,2023-08-23
+136,Kofi Hall,25-34,Universal Credit,SpareRoom,2022-07-15
+137,Liam Boateng,35-44,Universal Credit,SpareRoom,2022-09-17
+138,Liam Wilson,18-24,Employed full-time,Rightmove,2024-03-15
+139,Lewis Brown,25-34,Employed full-time,Zoopla,2024-07-14
+140,Kwame Clarke,35-44,Student,Zoopla,2023-07-24
+141,Fatima Owusu,55+,Employed full-time,Rightmove,2022-07-10
+142,Ellie Clarke,35-44,Employed full-time,Rightmove,2024-12-30
+143,Leah Taylor,55+,Student,Zoopla,2023-10-24
+144,Kofi Ali,25-34,Employed full-time,Facebook Marketplace,2023-12-05
+145,Amelia Patel,18-24,Student,Zoopla,2022-09-12
+146,Ahmed Owusu,25-34,Retired,Zoopla,2022-09-28
+147,Zara Khan,45-54,Universal Credit,Rightmove,2024-01-09
+148,Ryan Johnson,25-34,Universal Credit,Rightmove,2024-03-22
+149,Zara Jackson,35-44,Employed full-time,Walk-in,2022-07-14
+150,James Taylor,25-34,Employed full-time,Rightmove,2024-06-30
+151,James Smith,35-44,Student,SpareRoom,2024-05-14
+152,Liam Walker,18-24,Employed full-time,Referral,2022-07-29
+153,Daniel Ali,25-34,Employed full-time,Zoopla,2022-09-30
+154,Chloe Johnson,25-34,Employed full-time,Walk-in,2024-06-20
+155,Oliver Jackson,18-24,Student,Facebook Marketplace,2025-06-15
+156,Nathan Turner,18-24,Universal Credit,Rightmove,2022-09-10
+157,Callum Robinson,55+,Employed full-time,Rightmove,2023-07-22
+158,Grace Wilson,25-34,Employed part-time,OpenRent,2022-02-24
+159,Zara Taylor,25-34,Employed part-time,Referral,2023-08-29
+160,Amelia Hughes,45-54,Universal Credit,Zoopla,2022-08-19
+161,Aisha Walker,35-44,Employed full-time,Facebook Marketplace,2022-01-25
+162,Fatima Bell,25-34,Employed full-time,Facebook Marketplace,2024-05-11
+163,Fatima Evans,35-44,Student,SpareRoom,2022-05-30
+164,Olivia Hall,18-24,Employed full-time,Rightmove,2022-05-04
+165,Leah Hussain,25-34,Self-employed,Referral,2024-05-17
+166,Leah Johnson,35-44,Employed part-time,Rightmove,2022-06-21
+167,Zara Johnson,25-34,Employed full-time,Referral,2025-01-03
+168,Jack Wright,25-34,Student,Walk-in,2022-05-16
+169,Zara Wood,25-34,Universal Credit,Rightmove,2023-05-16
+170,Grace Bell,25-34,Employed full-time,OpenRent,2023-09-26
+171,Sophie Mensah,18-24,Employed full-time,Rightmove,2024-10-13
+172,Oliver Hussain,25-34,Student,Rightmove,2024-02-01
+173,Liam Jackson,35-44,Employed full-time,Facebook Marketplace,2022-03-02
+174,Emily Hughes,25-34,Employed part-time,Rightmove,2025-03-26
+175,Kwame Walker,25-34,Employed full-time,Zoopla,2025-03-06
+176,Ahmed Robinson,18-24,Student,Facebook Marketplace,2022-08-25
+177,Ethan Jackson,25-34,Employed full-time,Facebook Marketplace,2023-05-16
+178,Mohammed Walker,25-34,Universal Credit,Rightmove,2022-03-14
+179,Rachel Hughes,45-54,Student,Zoopla,2023-10-22
+180,Aisha Thompson,45-54,Employed full-time,Facebook Marketplace,2025-03-16
+181,Fatima Mensah,25-34,Universal Credit,Rightmove,2024-11-22
+182,Mohammed Wright,18-24,Employed full-time,Rightmove,2023-09-29
+183,Jack Johnson,25-34,Employed full-time,Rightmove,2025-02-28
+184,Zara Jackson,35-44,Employed full-time,OpenRent,2024-10-07
+185,Tomasz Jackson,45-54,Student,Rightmove,2022-01-14
+186,Adam Smith,25-34,Employed full-time,Facebook Marketplace,2022-01-20
+187,Emily Smith,35-44,Employed full-time,Referral,2023-09-22
+188,Daniel Taylor,25-34,Employed full-time,Zoopla,2022-05-03
+189,Chloe Wood,25-34,Employed full-time,Rightmove,2024-11-30
+190,Adam Wood,45-54,Employed full-time,Referral,2025-04-04
+191,Daniel Hussain,18-24,Student,Rightmove,2025-03-08
+192,Amelia Thompson,35-44,Employed full-time,Rightmove,2023-10-08
+193,Leah Wood,45-54,Employed full-time,Zoopla,2023-04-24
+194,Kwame Taylor,18-24,Student,Rightmove,2022-08-05
+195,Ahmed Owusu,25-34,Employed full-time,Zoopla,2023-03-02
+196,Nathan Davies,25-34,Universal Credit,Rightmove,2023-09-16
+197,Mohammed Taylor,45-54,Employed full-time,Rightmove,2023-05-24
+198,Oliver Wright,25-34,Self-employed,Rightmove,2022-12-23
+199,Olivia Wright,45-54,Employed part-time,OpenRent,2022-07-13
+200,Ellie Mensah,45-54,Employed full-time,Rightmove,2023-04-01
+201,Liam Taylor,45-54,Employed full-time,OpenRent,2022-06-22
+202,Ryan Bell,45-54,Employed full-time,Rightmove,2024-06-27
+203,Liam Johnson,45-54,Student,Rightmove,2022-03-29
+204,Ellie Patel,18-24,Employed part-time,Facebook Marketplace,2024-03-19
+205,Lewis Smith,25-34,Employed full-time,Zoopla,2023-01-19
+206,Megan Nowak,25-34,Employed full-time,OpenRent,2025-06-17
+207,Aisha Clarke,25-34,Employed full-time,OpenRent,2022-05-05
+208,Grace Nowak,25-34,Employed full-time,Walk-in,2024-12-12
+209,Aisha Clarke,55+,Employed part-time,Rightmove,2024-02-23
+210,Oliver Walker,25-34,Employed part-time,Facebook Marketplace,2024-10-25
+211,Jack Wright,25-34,Employed full-time,OpenRent,2022-03-02
+212,Megan Patel,45-54,Employed full-time,Zoopla,2025-04-11
+213,Ethan Khan,18-24,Self-employed,Rightmove,2022-04-25
+214,Ethan Hall,45-54,Student,Zoopla,2022-12-22
+215,Sophie Wilson,25-34,Student,Walk-in,2025-04-26
+216,Olivia Wood,35-44,Universal Credit,OpenRent,2025-02-27
+217,Tomasz Ahmed,55+,Universal Credit,Zoopla,2023-09-25
+218,Sophie Walker,18-24,Employed full-time,OpenRent,2022-02-10
+219,Holly Walker,18-24,Universal Credit,Rightmove,2022-09-25
+220,Emily Wood,18-24,Student,Facebook Marketplace,2022-05-02
+221,Olivia Brown,25-34,Universal Credit,Referral,2024-12-13
+222,Fatima Johnson,25-34,Universal Credit,Zoopla,2022-07-26
+223,Emily Davies,25-34,Retired,Referral,2024-06-13
+224,Lewis Clarke,25-34,Self-employed,OpenRent,2025-06-10
+225,Oliver Wilson,35-44,Student,Zoopla,2023-08-27
+226,Liam Khan,35-44,Universal Credit,SpareRoom,2024-03-12
+227,Mohammed Khan,35-44,Universal Credit,SpareRoom,2023-03-29
+228,Daniel Bell,25-34,Employed full-time,Rightmove,2023-12-12
+229,Jack Khan,35-44,Retired,Facebook Marketplace,2025-08-01
+230,Emily Owusu,18-24,Employed full-time,Walk-in,2023-12-19
+231,Ryan Hughes,18-24,Employed full-time,Zoopla,2024-05-09
+232,Ahmed Scott,25-34,Universal Credit,Zoopla,2024-02-08
+233,Daniel Ahmed,25-34,Universal Credit,Walk-in,2023-04-07
+234,Ahmed Owusu,18-24,Student,Rightmove,2023-10-15
+235,Ryan Mensah,18-24,Employed full-time,Zoopla,2022-06-03
+236,Rachel Scott,55+,Employed full-time,SpareRoom,2024-09-15
+237,Olivia Thompson,55+,Employed full-time,Facebook Marketplace,2022-11-18
+238,Amelia Mensah,25-34,Retired,Zoopla,2025-02-08
+239,Connor Nowak,35-44,Employed full-time,Rightmove,2024-03-15
+240,Rachel Ahmed,25-34,Employed full-time,Rightmove,2022-06-29
+241,Kofi Ahmed,35-44,Employed part-time,Rightmove,2022-02-22
+242,Hannah Khan,35-44,Retired,Zoopla,2022-08-25
+243,Zara Hughes,25-34,Employed part-time,Walk-in,2022-07-06
+244,Connor Wright,18-24,Universal Credit,Zoopla,2024-07-01
+245,Mohammed Nowak,25-34,Employed full-time,Facebook Marketplace,2025-03-01
+246,Amelia Brown,35-44,Self-employed,Rightmove,2023-12-06
+247,Connor Thompson,55+,Employed part-time,OpenRent,2024-03-03
+248,Holly Thompson,55+,Self-employed,SpareRoom,2025-03-18
+249,Aisha Walker,25-34,Employed full-time,Facebook Marketplace,2022-03-13
+250,Yusuf Hall,45-54,Student,Walk-in,2025-06-24
+251,Chloe Mensah,55+,Employed full-time,SpareRoom,2022-12-09
+252,Hannah Hughes,18-24,Employed full-time,Rightmove,2024-06-10
+253,Tomasz Ahmed,35-44,Student,Rightmove,2022-05-18
+254,Grace Wright,25-34,Employed part-time,Facebook Marketplace,2024-11-30
+255,Ellie Bell,45-54,Student,OpenRent,2024-12-06
+256,Adam Mensah,25-34,Employed full-time,OpenRent,2022-07-25
+257,Daniel Hall,35-44,Student,Facebook Marketplace,2023-12-06
+258,Adam Nowak,25-34,Employed part-time,OpenRent,2022-03-18
+259,Sophie Nowak,25-34,Employed part-time,Walk-in,2024-04-02
+260,Mohammed Wright,45-54,Employed full-time,Rightmove,2024-08-31
+261,Megan Scott,25-34,Employed full-time,Referral,2023-09-29
+262,Megan Ahmed,25-34,Self-employed,Rightmove,2023-04-12
+263,Liam Davies,55+,Employed full-time,Facebook Marketplace,2023-07-06
+264,Adam Green,35-44,Employed full-time,Rightmove,2024-04-13
+265,Lewis Boateng,25-34,Employed full-time,Rightmove,2022-11-22
+266,Kwame Davies,35-44,Employed full-time,Referral,2024-12-09
+267,Olivia Khan,18-24,Student,Facebook Marketplace,2023-05-26
+268,Mohammed Owusu,18-24,Employed full-time,Rightmove,2024-01-25
+269,Ellie Hussain,25-34,Universal Credit,Walk-in,2023-05-11
+270,Fatima Walker,25-34,Employed full-time,Facebook Marketplace,2025-04-16
+271,Rachel Robinson,25-34,Student,Rightmove,2022-07-05
+272,Kofi Smith,25-34,Employed full-time,OpenRent,2023-03-15
+273,Ethan Clarke,25-34,Employed full-time,Walk-in,2024-11-17
+274,Olivia Turner,35-44,Student,Rightmove,2022-09-28
+275,Sophie Green,45-54,Employed full-time,OpenRent,2023-09-18
+276,Megan Thompson,45-54,Universal Credit,Zoopla,2023-03-23
+277,Ellie Davies,35-44,Student,Zoopla,2022-07-29
+278,James Hussain,55+,Retired,Facebook Marketplace,2025-02-23
+279,Kofi Davies,35-44,Employed part-time,Rightmove,2023-07-21
+280,Jack Turner,25-34,Self-employed,SpareRoom,2023-09-04
+281,Tomasz Brown,25-34,Employed full-time,Rightmove,2025-05-13
+282,Leah Lewis,25-34,Employed full-time,Rightmove,2024-10-15
+283,Kofi Nowak,45-54,Employed full-time,Referral,2025-04-09
+284,Tomasz Ali,35-44,Employed full-time,Zoopla,2024-09-01
+285,Oliver Hussain,25-34,Employed full-time,Walk-in,2025-02-17
+286,Sophie Davies,18-24,Employed full-time,Rightmove,2025-02-18
+287,Sophie Lewis,45-54,Self-employed,Rightmove,2023-04-03
+288,Zara Thompson,35-44,Employed full-time,Rightmove,2023-08-26
+289,Ellie Turner,18-24,Employed full-time,OpenRent,2025-04-03
+290,Kwame Walker,45-54,Employed part-time,Facebook Marketplace,2024-02-21
+291,Holly Davies,25-34,Universal Credit,Rightmove,2023-02-15
+292,Emily Thompson,55+,Universal Credit,SpareRoom,2022-10-21
+293,Jack Turner,35-44,Student,Zoopla,2025-07-16
+294,Sophie Ali,35-44,Employed full-time,Rightmove,2022-12-12
+295,Ahmed Walker,35-44,Student,Rightmove,2024-06-07
+296,Jessica Wright,25-34,Employed full-time,Rightmove,2024-12-29
+297,Tomasz Jackson,25-34,Employed full-time,Rightmove,2024-12-23
+298,Tomasz Smith,35-44,Self-employed,Rightmove,2023-12-07
+299,Zara Brown,18-24,Employed part-time,Rightmove,2022-05-14
+300,Mohammed Davies,55+,Employed full-time,Zoopla,2024-12-09
+301,Emily Thompson,45-54,Retired,Zoopla,2024-09-30
+302,Oliver Boateng,18-24,Universal Credit,Facebook Marketplace,2024-04-06
+303,Olivia Wilson,25-34,Retired,Rightmove,2022-02-14
+304,Yusuf Khan,18-24,Self-employed,Referral,2024-02-08
+305,Ryan Boateng,25-34,Employed full-time,SpareRoom,2022-08-10
+306,Olivia Patel,35-44,Employed full-time,Zoopla,2025-01-25
+307,Ryan Walker,35-44,Employed full-time,Walk-in,2022-01-20
+308,Zara Thompson,35-44,Self-employed,Rightmove,2025-05-25
+309,Liam Thompson,45-54,Employed full-time,Walk-in,2022-08-30
+310,Kofi Mensah,35-44,Employed part-time,OpenRent,2023-06-23
+311,Holly Taylor,25-34,Employed full-time,Rightmove,2025-01-27
+312,Lewis Bell,18-24,Universal Credit,Rightmove,2022-01-06
+313,James Lewis,18-24,Employed full-time,OpenRent,2024-10-08
+314,Chloe Johnson,35-44,Employed full-time,Referral,2023-06-09
+315,Ethan Owusu,55+,Employed full-time,Zoopla,2022-07-24
+316,Sophie Turner,18-24,Employed full-time,Referral,2023-10-03
+317,Jessica Jackson,18-24,Universal Credit,Facebook Marketplace,2022-01-20
+318,Liam Lewis,35-44,Employed full-time,Facebook Marketplace,2025-06-27
+319,Megan Scott,35-44,Employed full-time,Zoopla,2022-08-22
+320,Leah Wright,55+,Employed full-time,Zoopla,2024-09-06
+321,Adam Clarke,45-54,Employed full-time,Rightmove,2022-05-01
+322,Ahmed Mensah,25-34,Employed part-time,Referral,2024-06-16
+323,Sophie Green,25-34,Employed full-time,Rightmove,2022-09-25
+324,Ama Bell,25-34,Universal Credit,Zoopla,2022-05-10
+325,Ryan Clarke,25-34,Self-employed,Walk-in,2025-03-26
+326,Ethan Lewis,45-54,Employed part-time,Walk-in,2025-06-20
+327,Daniel Thompson,35-44,Employed full-time,Zoopla,2024-02-28
+328,Chloe Ahmed,45-54,Universal Credit,OpenRent,2022-01-24
+329,Ahmed Hussain,45-54,Universal Credit,Facebook Marketplace,2022-06-03
+330,Lewis Ali,25-34,Retired,Rightmove,2023-04-02
+331,Rachel Clarke,25-34,Student,Rightmove,2024-06-28
+332,Nathan Johnson,45-54,Employed full-time,Rightmove,2024-10-15
+333,Olivia Mensah,25-34,Employed full-time,OpenRent,2022-07-06
+334,Zara Scott,25-34,Employed full-time,Walk-in,2023-11-30
+335,Fatima Ahmed,18-24,Employed full-time,Zoopla,2025-02-21
+336,Ama Wood,35-44,Self-employed,Rightmove,2023-03-31
+337,James Ali,25-34,Self-employed,Referral,2025-01-26
+338,Holly Robinson,35-44,Employed full-time,Rightmove,2022-10-15
+339,Adam Mensah,25-34,Employed full-time,Rightmove,2024-03-15
+340,Hannah Owusu,45-54,Employed full-time,Rightmove,2024-04-28
+341,Mohammed Bell,35-44,Self-employed,Rightmove,2024-07-11
+342,Ellie Lewis,25-34,Employed part-time,SpareRoom,2022-01-09
+343,Holly Jackson,18-24,Universal Credit,Facebook Marketplace,2024-09-16
+344,Yusuf Boateng,55+,Employed full-time,OpenRent,2022-09-20
+345,Daniel Wright,35-44,Employed part-time,Rightmove,2024-02-27
+346,Adam Green,45-54,Student,Rightmove,2023-12-04
+347,Kofi Owusu,45-54,Employed full-time,OpenRent,2024-11-15
+348,Zara Ahmed,35-44,Universal Credit,Walk-in,2025-02-07
+349,Hannah Taylor,18-24,Self-employed,Walk-in,2022-09-29
+350,Sophie Hussain,25-34,Self-employed,Walk-in,2023-12-23
+351,Rachel Walker,25-34,Universal Credit,Walk-in,2024-12-29
+352,Kofi Scott,45-54,Student,Zoopla,2022-02-21
+353,Callum Brown,18-24,Employed full-time,Rightmove,2022-11-26
+354,Kofi Lewis,25-34,Student,Walk-in,2023-08-28
+355,Hannah Boateng,25-34,Employed full-time,Zoopla,2025-06-15
+356,Rachel Turner,25-34,Self-employed,Zoopla,2024-11-12
+357,Kofi Wood,35-44,Universal Credit,Zoopla,2023-10-03
+358,Rachel Patel,18-24,Employed full-time,OpenRent,2024-06-26
+359,Ethan Bell,35-44,Self-employed,Zoopla,2025-04-20
+360,Connor Jackson,35-44,Student,SpareRoom,2023-08-26
+361,Nathan Khan,55+,Employed full-time,SpareRoom,2024-11-18
+362,Priya Wright,18-24,Employed full-time,Rightmove,2022-11-26
+363,Ryan Smith,25-34,Self-employed,Rightmove,2022-11-11
+364,Jack Green,18-24,Universal Credit,OpenRent,2023-09-09
+365,Lewis Hughes,25-34,Employed full-time,Referral,2023-10-13
+366,Holly Wilson,55+,Employed part-time,Referral,2022-11-23
+367,Adam Evans,25-34,Employed full-time,Rightmove,2023-03-13
+368,Emily Ali,25-34,Employed full-time,Referral,2024-12-22
+369,Ama Evans,45-54,Retired,Rightmove,2023-12-10
+370,Nathan Wilson,45-54,Employed part-time,OpenRent,2022-03-23
+371,Jack Wright,45-54,Universal Credit,Zoopla,2025-01-11
+372,Kofi Smith,45-54,Student,Zoopla,2024-11-07
+373,Nathan Walker,18-24,Universal Credit,Rightmove,2024-11-18
+374,Grace Mensah,18-24,Universal Credit,Zoopla,2022-01-16
+375,Kwame Taylor,35-44,Student,Facebook Marketplace,2024-05-18
+376,Daniel Taylor,25-34,Self-employed,SpareRoom,2024-06-10
+377,Kwame Jackson,35-44,Employed full-time,Walk-in,2022-03-19
+378,Grace Johnson,18-24,Student,OpenRent,2025-03-23
+379,Ethan Bell,25-34,Employed full-time,OpenRent,2024-06-05
+380,Jack Smith,25-34,Employed full-time,Rightmove,2025-06-20
+381,Kwame Boateng,35-44,Employed full-time,Facebook Marketplace,2024-01-03
+382,Yusuf Mensah,25-34,Self-employed,OpenRent,2023-07-31
+383,Nathan Wright,25-34,Self-employed,Zoopla,2024-12-28
+384,Ethan Brown,35-44,Student,Facebook Marketplace,2023-08-28
+385,Chloe Davies,35-44,Universal Credit,Referral,2024-02-04
+386,James Evans,45-54,Employed full-time,Rightmove,2025-03-18
+387,Leah Evans,25-34,Employed full-time,Rightmove,2023-12-06
+388,Hannah Thompson,45-54,Universal Credit,Rightmove,2023-01-12
+389,Ethan Green,45-54,Employed full-time,Rightmove,2025-03-07
+390,Amelia Turner,35-44,Retired,OpenRent,2025-01-30
+391,Kwame Davies,35-44,Employed full-time,Rightmove,2025-04-04
+392,Lewis Ali,25-34,Self-employed,Rightmove,2023-08-07
+393,Kwame Scott,18-24,Employed part-time,Rightmove,2023-09-19
+394,Chloe Hall,25-34,Student,SpareRoom,2022-12-12
+395,James Ali,25-34,Employed full-time,Referral,2024-06-12
+396,Megan Ahmed,25-34,Self-employed,Rightmove,2024-09-09
+397,Ellie Owusu,25-34,Employed full-time,OpenRent,2022-12-26
+398,Grace Ahmed,25-34,Student,Facebook Marketplace,2023-02-07
+399,Ryan Jackson,45-54,Employed full-time,Rightmove,2022-02-08
+400,Yusuf Clarke,18-24,Employed part-time,Zoopla,2025-04-23
+401,Hannah Bell,18-24,Employed full-time,Facebook Marketplace,2025-01-10
+402,Ama Clarke,35-44,Employed full-time,Rightmove,2025-04-22
+403,Kofi Brown,25-34,Employed part-time,Zoopla,2024-10-25
+404,James Lewis,25-34,Retired,SpareRoom,2022-12-06
+405,Yusuf Brown,25-34,Employed full-time,SpareRoom,2022-10-27
+406,Ama Robinson,18-24,Student,Rightmove,2023-06-26
+407,Fatima Wilson,18-24,Employed full-time,Facebook Marketplace,2024-01-10
+408,Callum Walker,45-54,Universal Credit,Rightmove,2023-10-26
+409,Daniel Wood,55+,Self-employed,Rightmove,2023-06-24
+410,Connor Hall,18-24,Self-employed,Zoopla,2022-06-09
+411,Holly Nowak,25-34,Universal Credit,Zoopla,2023-12-24
+412,Oliver Walker,35-44,Universal Credit,Rightmove,2022-10-12
+413,Nathan Khan,25-34,Employed part-time,Rightmove,2022-11-04
+414,Sophie Khan,25-34,Self-employed,Rightmove,2023-04-17
+415,Adam Hughes,25-34,Employed full-time,Walk-in,2024-09-08
+416,Hannah Hall,18-24,Student,Rightmove,2022-03-30
+417,Liam Hall,25-34,Employed full-time,Zoopla,2025-03-18
+418,Chloe Patel,18-24,Universal Credit,Zoopla,2024-04-10
+419,Olivia Scott,35-44,Self-employed,Rightmove,2022-06-25
+420,Hannah Owusu,35-44,Employed full-time,Zoopla,2023-03-26
